@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A2BBD1&height=200&section=header&text=welcome&desc=hyeri's%20github&animation=blink&fontColor=FFFFFF&fontAlign=75&descAlign=89&descAlignY=70&fontSize=90" /><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A2BBD1&height=200&section=header&text=it's%20hyeri&desc=woo_dev&animation=blink&fontColor=FFFFFF&fontAlign=75&descAlign=90&descAlignY=70&fontSize=90" /><br><br><br>
  👋 Hi, threre! Welcome to my github profile!
  <br/> <br/> <br/> <br/>
 💬 About Me  <br/> <br/>
